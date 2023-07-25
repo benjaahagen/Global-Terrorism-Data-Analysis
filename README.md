@@ -14,7 +14,7 @@ The data used in this project is the Global Terrorism Database, which is an open
 The repository contains the following files:
 
 1. `PerpsAdded.csv`: This is the dataset used for the analysis.
-2. `PerpsAdded.pdf`: This is the report of the analysis, containing all the findings and visualizations.
+2. `PerpsAdded.pdf`: This is the report of the analysis, containing all the findings and visualizations
 
 ## Analysis
 
